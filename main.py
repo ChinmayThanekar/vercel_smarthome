@@ -1,7 +1,7 @@
 import streamlit as st
-from PIL import Image
+#from PIL import Image
 
-logo_url = Image.open("Gemini_Generated_Image_uy80ituy80ituy80.png")
+#logo_url = Image.open("Gemini_Generated_Image_uy80ituy80ituy80.png")
 # Page config
 st.set_page_config(
     page_title="Niva Novus", 
